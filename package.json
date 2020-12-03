@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/opus": "^0.3.3",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.1"
+    "ffmpeg-static": "^4.2.7",
+    "node-fetch": "^2.6.1",
+    "ytdl-core": "^4.1.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
